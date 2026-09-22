@@ -1,17 +1,30 @@
 # 👋 Hi, I'm fuliye
 
-> Vibe coding my way through the internet.
+> Cybersecurity delivery engineer who enjoys turning complex solutions into working systems.
 
 📍 Haidian District, Beijing, China  
-🤖 Building things with AI  
-🧪 Turning random ideas into working prototypes
+🛡️ Cybersecurity Delivery Engineer  
+🤖 Exploring AI-assisted workflows and vibe coding
 
-## 🛠️ What I Do
+## 🔐 What I Do
 
-- Vibe coding
-- AI-assisted experiments
-- Trying things until they work
-- Building prototypes with natural language
+- Deploy and deliver cybersecurity solutions
+- Integrate security products with customer environments
+- Troubleshoot issues across networks, systems, and applications
+- Support implementation, testing, and production rollout
+- Turn technical requirements into working solutions
+
+## 🧰 Areas of Interest
+
+- Network security
+- Security operations
+- System integration
+- Automation
+- AI-assisted tooling
+
+## 🧪 Outside of Work
+
+I occasionally use AI and vibe coding to turn random ideas into working prototypes.
 
 ## 🎵 I Wanna Go To China
 
@@ -28,11 +41,5 @@
 > 'Cause I wanna go to China, the Tiananmen Square  
 > Feeling great, yes, Great Wall  
 > Chinese food yeah, gotta eat it all
-
-## 🗺️ Current Status
-
-- Learning by doing
-- Letting AI handle the complicated parts
-- Occasionally creating something useful
 
 [Listen to the song](https://www.youtube.com/watch?v=gNIhWNN03K4)
