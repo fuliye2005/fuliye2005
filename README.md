@@ -1,4 +1,4 @@
-# 👋 Hi, I'm fuliye2005
+# 👋 Hi, I'm fuliye
 
 > Vibe coding my way through the internet.
 
