@@ -36,7 +36,6 @@ I occasionally use AI and vibe coding to turn random ideas into working prototyp
 > 我想要把我的每一天都安置在上海  
 > 中国有好多风水，有好多好运来  
 > 我这次来到德国柏林，从法国飞上海  
->  
 > You have not been yet but I don't really care  
 > 'Cause I wanna go to China, the Tiananmen Square  
 > Feeling great, yes, Great Wall  
